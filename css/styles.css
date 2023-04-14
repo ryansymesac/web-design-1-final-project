@@ -1,1 +1,6 @@
-html{font-family: 'Roboto', sans-serif;}
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+section {max-width: 1280px;}
+
