@@ -47,3 +47,25 @@ img {
     grid-column: 3;
   }
 
+  a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  
+  a:visited {
+    color: purple;
+  }
+  
+  
+  a:hover {
+    color: red;
+    text-decoration: underline;
+  }
+  
+ 
+  a:focus {
+    outline: none;
+    box-shadow: 0 0 2px 2px #999;
+  }
+
